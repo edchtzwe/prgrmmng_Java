@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Warehouse()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Warehouse\r\n
+comment1.params=pbook
+comment1.target=void\ addBook(Book)
+comment2.params=pcd
+comment2.target=void\ addCD(CD)
+comment3.params=pmovie
+comment3.target=void\ addMovie(Movie)
+comment4.params=
+comment4.target=java.util.ArrayList\ getBooks()
+comment5.params=
+comment5.target=java.util.ArrayList\ getCDs()
+comment6.params=
+comment6.target=java.util.ArrayList\ getMovies()
+numComments=7

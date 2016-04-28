@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=pperformer\ ptitle\ pprice\ pavailable\ pfileType
+comment0.target=CD(java.lang.String,\ java.lang.String,\ double,\ int,\ java.lang.String)
+comment0.text=\r\n\ @param\ (Sperformer,\ Stitle,\ Dprice,\ Iavailability,\ Sfiletype)\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\n\ @return\ string\ representaion\r\n
+numComments=2

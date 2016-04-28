@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=pdirector\ pproducer\ ptitle\ pprice\ pavailable\ pfileType
+comment0.target=Movie(java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ int,\ java.lang.String)
+comment0.text=\r\n\ @param\ (Sdirector,\ Sproducer,\ Stitle,\ Dprice,\ Iavailable,\ SfileType)\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\n\ Returns\ results\ in\ String\ \r\n
+numComments=2

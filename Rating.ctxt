@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Rating()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Rating\r\n
+comment1.params=prating
+comment1.target=void\ updateRating(int)
+comment2.params=
+comment2.target=int[]\ getScores()
+comment2.text=\r\n\ @return\ (the\ scores\ array)\r\n
+comment3.params=pindex
+comment3.target=int\ getScoreByIndex(int)
+comment3.text=\r\n\ @return\ (a\ score\ by\ index\r\n
+comment4.params=
+comment4.target=int\ getAverage()
+comment4.text=\r\n\ @return\ (Iaverage)\r\n
+numComments=5

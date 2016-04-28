@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=pauthor\ ptitle\ pprice\ pavailable
+comment0.target=Book(java.lang.String,\ java.lang.String,\ double,\ int)
+comment0.text=\r\n\ @param\ (author,\ title,\ price,\ available)\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\n\ @return\ (string\ representation)\r\n
+numComments=2
